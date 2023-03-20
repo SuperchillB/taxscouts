@@ -3,7 +3,9 @@
 Take-home assignment for a Frontend Engineer position at TaxScouts.
 To run this project you can jump straight down to [this section](#getting-started).
 
-## Context
+<img src="./public/my-library-homepage.png?raw=true" width="800" />
+
+## Contexts
 
 Implement a quick search functionality as part of a larger app (i.e. not expecting this to be a standalone component) based on the following [**Figma wireframes**](https://www.figma.com/file/gQVK0BCychWR9itVUIFxoq/Practical-task?node-id=0%3A1).
 
