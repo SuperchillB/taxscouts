@@ -1,0 +1,129 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "docs": [
+    {
+      "key": "/works/OL19733362W",
+      "type": "work",
+      "seed": [
+        "/books/OL29143170M",
+        "/books/OL27682622M",
+        "/books/OL26946457M",
+        "/books/OL29429045M",
+        "/books/OL27757355M",
+        "/books/OL32068174M",
+        "/works/OL19733362W",
+        "/subjects/western_civilization",
+        "/subjects/cerebral_dominance",
+        "/subjects/civilization_western",
+        "/subjects/brain_physiology",
+        "/subjects/social_change",
+        "/authors/OL1111011A"
+      ],
+      "title": "The master and his emissary",
+      "title_suggest": "The master and his emissary",
+      "title_sort": "The master and his emissary",
+      "edition_count": 6,
+      "edition_key": [
+        "OL29143170M",
+        "OL27682622M",
+        "OL26946457M",
+        "OL29429045M",
+        "OL27757355M",
+        "OL32068174M"
+      ],
+      "publish_date": [
+        "Jun 16, 2020",
+        "2009",
+        "Nov 02, 2010",
+        "2012",
+        "2019",
+        "Mar 26, 2019"
+      ],
+      "publish_year": [2020, 2009, 2012, 2019, 2010],
+      "first_publish_year": 2009,
+      "number_of_pages_median": 608,
+      "lccn": ["2013431727"],
+      "publish_place": ["New Haven, Conn", "London"],
+      "oclc": ["793688506"],
+      "lcc": [
+        "QP-0385.50000000.M36 2010",
+        "QP-0385.50000000.M36 2019",
+        "QP-0385.50000000.M36 2009",
+        "QP-0385.50000000.M36 2012"
+      ],
+      "ddc": ["612.825"],
+      "isbn": [
+        "9780300247459",
+        "0300188374",
+        "0300247451",
+        "0300245920",
+        "9781713526759",
+        "9780300245929",
+        "9780300168921",
+        "9780300170177",
+        "0300170173",
+        "9780300188370",
+        "0300168926",
+        "1713526751"
+      ],
+      "last_modified_i": 1678150665,
+      "ebook_count_i": 0,
+      "ebook_access": "no_ebook",
+      "has_fulltext": false,
+      "public_scan_b": false,
+      "readinglog_count": 18,
+      "want_to_read_count": 14,
+      "currently_reading_count": 4,
+      "already_read_count": 0,
+      "cover_edition_key": "OL27757355M",
+      "cover_i": 9169000,
+      "first_sentence": [
+        "This book tells a story about ourselves and the world, and about how we got to be where we are now."
+      ],
+      "publisher": [
+        "Audible Studios on Brilliance",
+        "Audible Studios on Brilliance Audio",
+        "Yale University Press"
+      ],
+      "language": ["eng"],
+      "author_key": ["OL1111011A"],
+      "author_name": ["Iain McGilchrist"],
+      "subject": [
+        "Western Civilization",
+        "Cerebral dominance",
+        "Civilization, western",
+        "Brain, physiology",
+        "Social change"
+      ],
+      "id_amazon": ["0300245920", "0300168926"],
+      "publisher_facet": [
+        "Audible Studios on Brilliance",
+        "Audible Studios on Brilliance Audio",
+        "Yale University Press"
+      ],
+      "subject_facet": [
+        "Brain, physiology",
+        "Cerebral dominance",
+        "Civilization, western",
+        "Social change",
+        "Western Civilization"
+      ],
+      "_version_": 1759900456758280192,
+      "lcc_sort": "QP-0385.50000000.M36 2010",
+      "author_facet": ["OL1111011A Iain McGilchrist"],
+      "subject_key": [
+        "brain_physiology",
+        "cerebral_dominance",
+        "civilization_western",
+        "social_change",
+        "western_civilization"
+      ],
+      "ddc_sort": "612.825"
+    }
+  ],
+  "num_found": 1,
+  "q": "OL19733362W",
+  "offset": null
+}

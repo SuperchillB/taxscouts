@@ -1,0 +1,48 @@
+{
+  "numFound": 1,
+  "start": 0,
+  "numFoundExact": true,
+  "docs": [
+    {
+      "key": "/works/OL11697103W",
+      "type": "work",
+      "seed": [
+        "/books/OL16232100M",
+        "/works/OL11697103W",
+        "/subjects/golf",
+        "/authors/OL4956549A"
+      ],
+      "title": "Potted golf",
+      "title_suggest": "Potted golf",
+      "title_sort": "Potted golf",
+      "edition_count": 1,
+      "edition_key": ["OL16232100M"],
+      "publish_date": ["1910"],
+      "publish_year": [1910],
+      "first_publish_year": 1910,
+      "number_of_pages_median": 148,
+      "lccn": ["2005416778"],
+      "publish_place": ["Glasgow"],
+      "lcc": ["GV-0965.00000000.F85 1910"],
+      "last_modified_i": 1607738694,
+      "ebook_count_i": 0,
+      "ebook_access": "no_ebook",
+      "has_fulltext": false,
+      "public_scan_b": false,
+      "publisher": ["Dalross"],
+      "language": ["eng"],
+      "author_key": ["OL4956549A"],
+      "author_name": ["Harry Fulford"],
+      "subject": ["Golf"],
+      "publisher_facet": ["Dalross"],
+      "subject_facet": ["Golf"],
+      "_version_": 1759744414602756096,
+      "lcc_sort": "GV-0965.00000000.F85 1910",
+      "author_facet": ["OL4956549A Harry Fulford"],
+      "subject_key": ["golf"]
+    }
+  ],
+  "num_found": 1,
+  "q": "OL11697103W",
+  "offset": null
+}

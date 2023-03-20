@@ -1,0 +1,353 @@
+{
+  "numFound": 2018,
+  "start": 10,
+  "numFoundExact": true,
+  "docs": [
+    {
+      "key": "/works/OL13208658W",
+      "title": "Tolkien",
+      "first_publish_year": 1983,
+      "number_of_pages_median": 142,
+      "isbn": ["8475330843", "9788475330846"],
+      "publisher": ["Barcanova"],
+      "author_key": ["OL6117632A"],
+      "author_name": ["Julio-C\u00e9sar Santoyo"],
+      "id_goodreads": ["2202492"]
+    },
+    {
+      "key": "/works/OL23231233W",
+      "title": "Dictionnaire Tolkien",
+      "first_publish_year": 2012,
+      "number_of_pages_median": 669,
+      "oclc": ["818134552"],
+      "isbn": ["9782271075048", "2271075041"],
+      "publisher": ["CNRS \u00e9ditions"],
+      "author_key": ["OL3269902A"],
+      "author_name": ["Vincent Ferr\u00e9"],
+      "subject_facet": ["Dictionaries", "Encyclopedias", "French"]
+    },
+    {
+      "key": "/works/OL6035545W",
+      "title": "The Tolkien Companion",
+      "first_publish_year": 1976,
+      "number_of_pages_median": 531,
+      "oclc": ["5564489", "6531234"],
+      "isbn": [
+        "033025801X",
+        "9780517279144",
+        "9780380469048",
+        "9780330258012",
+        "0380009013",
+        "9780312808150",
+        "9780333196335",
+        "0517279142",
+        "0312808151",
+        "9780517146484",
+        "0517146487",
+        "0330245937",
+        "9780330245937",
+        "0333196333",
+        "9780380009015",
+        "031257066X",
+        "9780312570668",
+        "0380469049"
+      ],
+      "ia": [
+        "tolkiencompanion0000tyle",
+        "tolkiencompanion00tyle",
+        "tolkiencompanion0000tyle_n3z7",
+        "newtolkiencompan00tyle",
+        "tolkiencompanion00jeat"
+      ],
+      "cover_edition_key": "OL4493110M",
+      "cover_i": 7147539,
+      "publisher": [
+        "Pan Macmillan",
+        "Bell Pub. Co.",
+        "Pan Books",
+        "Avon",
+        "St. Martin's Press",
+        "Gramercy",
+        "Avon Books",
+        "Macmillan"
+      ],
+      "author_key": ["OL1517510A", "OL2755212A"],
+      "author_name": ["J. E. A. Tyler", "J.E.A. Tyler"],
+      "id_amazon": [""],
+      "id_goodreads": [
+        "23662",
+        "3249533",
+        "1808298",
+        "146170",
+        "851312",
+        "2254763"
+      ],
+      "id_librarything": ["3315221", "30895"],
+      "subject_facet": [
+        "Concordances",
+        "Dictionaries",
+        "Dictionaries, indexes",
+        "Encyclopedias",
+        "English Fantasy literature",
+        "English literature, history and criticism, 20th century",
+        "Handbooks, manuals",
+        "Middle Earth (Imaginary place)",
+        "Middle earth (imaginary place)",
+        "Tolkien, j, r. r. (john ronald ruel), 1892-1973"
+      ]
+    },
+    {
+      "key": "/works/OL1957271W",
+      "title": "Tolkien",
+      "first_publish_year": 2001,
+      "number_of_pages_median": 290,
+      "oclc": ["155991696"],
+      "isbn": [
+        "9781841976235",
+        "957082512X",
+        "9780316860444",
+        "9789570825121",
+        "1841976237",
+        "0316860441",
+        "0316860492",
+        "9780316860499"
+      ],
+      "ia": ["tuoerjinzhuantol00whit", "tolkienbiography0000whit"],
+      "cover_edition_key": "OL3618326M",
+      "cover_i": 2380276,
+      "publisher": [
+        "W. F. Howes",
+        "Little, Brown",
+        "Lian jing chu ban shi ye gu fen you xian gong si",
+        "W. F. Howes Ltd"
+      ],
+      "author_key": ["OL458253A"],
+      "author_name": ["Michael White"],
+      "id_goodreads": ["2635270", "6360241"],
+      "id_librarything": ["349292"],
+      "subject_facet": [
+        "Anglicists",
+        "Authors, English",
+        "Authorship",
+        "Biography",
+        "English Authors",
+        "Fantasy fiction, history and criticism",
+        "Fantasy literature",
+        "Large type books",
+        "Middle Earth (Imaginary place)",
+        "Middle earth (imaginary place)",
+        "Tolkien, j, r. r. (john ronald ruel), 1892-1973"
+      ]
+    },
+    {
+      "key": "/works/OL232926W",
+      "title": "Tolkien",
+      "first_publish_year": 1998,
+      "number_of_pages_median": 242,
+      "oclc": ["41365818", "40692159", "51768058"],
+      "isbn": [
+        "9780006281207",
+        "9780002740180",
+        "0002740184",
+        "9780898708257",
+        "9788445074442",
+        "0006281206",
+        "9780898707113",
+        "844507394X",
+        "0898707110",
+        "844507444X",
+        "0898708257",
+        "9788445073940"
+      ],
+      "ia": ["tolkienmanmyth0000pear"],
+      "cover_edition_key": "OL9213204M",
+      "cover_i": 3918,
+      "publisher": [
+        "Ignatius Press",
+        "HarperCollins",
+        "Minotauro Editores",
+        "Ignatius PR",
+        "Booket",
+        "HarperCollins UK"
+      ],
+      "author_key": ["OL771464A"],
+      "author_name": ["Joseph Chilton Pearce"],
+      "id_goodreads": [
+        "1796980",
+        "3021906",
+        "23608",
+        "7307743",
+        "1796981",
+        "1510278"
+      ],
+      "id_librarything": ["514833", "34728"],
+      "subject_facet": [
+        "Authors, English",
+        "Biographies",
+        "Biography",
+        "English Authors",
+        "Fantasy fiction, history and criticism",
+        "Middle earth (imaginary place)",
+        "Tolkien, j, r. r. (john ronald ruel), 1892-1973",
+        "\u00c9crivains anglais"
+      ]
+    },
+    {
+      "key": "/works/OL2163766W",
+      "title": "Tolkien",
+      "first_publish_year": 1991,
+      "number_of_pages_median": 279,
+      "isbn": [
+        "9780025334311",
+        "002533431X",
+        "9780753705605",
+        "002031275X",
+        "1857323467",
+        "9781857323467",
+        "9780020312758",
+        "0753705605"
+      ],
+      "ia": ["tolkienillustrat0000dayd_b9m6", "tolkienillustrat0000dayd_m3x1"],
+      "cover_edition_key": "OL22238828M",
+      "cover_i": 10334456,
+      "publisher": [
+        "Fireside",
+        "Chancellor Press",
+        "Maxwell Macmillan Canada",
+        "Scribner Paper Fiction",
+        "Mitchell Beazley",
+        "Macmillan",
+        "Collier Books",
+        "Maxwell Macmillan International"
+      ],
+      "author_key": ["OL272955A"],
+      "author_name": ["David Day"],
+      "id_goodreads": ["1861375", "1139755", "804489"],
+      "id_librarything": ["91239", "1105444"],
+      "subject_facet": [
+        "Creation (Literary, artistic, etc.)",
+        "Encyclopedias",
+        "English Fantasy fiction",
+        "Fantasy fiction, English",
+        "Middle Earth (Imaginary place)",
+        "Mythology",
+        "Tolkien, J.R.R. (John Ronald Reuel), 1892-1973",
+        "W\u00f6rterbuch"
+      ]
+    },
+    {
+      "key": "/works/OL6035544W",
+      "title": "The complete Tolkien companion",
+      "first_publish_year": 1976,
+      "number_of_pages_median": 713,
+      "oclc": ["53013323", "54943288"],
+      "isbn": [
+        "0312315457",
+        "9780330411653",
+        "9781466866454",
+        "0312339127",
+        "9781250023551",
+        "9780312339128",
+        "1250023556",
+        "1466866454",
+        "9780312315450",
+        "0330411659"
+      ],
+      "ia": ["completetolkienc00tyle"],
+      "cover_edition_key": "OL3688900M",
+      "cover_i": 179563,
+      "publisher": [
+        "Thomas Dunne Books/St. Martin's Press",
+        "Pan Books",
+        "PAN",
+        "St. Martin's Press",
+        "St. Martin's Griffin"
+      ],
+      "author_key": ["OL1517510A", "OL6331513A"],
+      "author_name": ["J. E. A. Tyler", "J. E. A. TYLER"],
+      "id_goodreads": ["1136146", "1120372"],
+      "id_librarything": ["3315221"],
+      "subject_facet": [
+        "Dictionaries",
+        "Encyclopedias",
+        "English Fantasy literature",
+        "English literature, history and criticism, 20th century",
+        "Fantasy fiction, history and criticism",
+        "Middle Earth (Imaginary place)",
+        "Middle earth (imaginary place)",
+        "Tolkien, j, r. r. (john ronald ruel), 1892-1973"
+      ]
+    },
+    {
+      "key": "/works/OL2991452W",
+      "title": "Tolkien",
+      "first_publish_year": 2002,
+      "number_of_pages_median": 298,
+      "oclc": ["53432966", "223366140"],
+      "isbn": ["9780451212429", "0349116202", "9780349116204", "0451212428"],
+      "cover_edition_key": "OL9869286M",
+      "cover_i": 213274,
+      "publisher": ["Abacus", "NAL Trade"],
+      "author_key": ["OL458253A"],
+      "author_name": ["Michael White"],
+      "id_goodreads": ["214155", "1796977"],
+      "id_librarything": ["349292"],
+      "subject_facet": [
+        "Middle earth (imaginary place)",
+        "Tolkien, j, r. r. (john ronald ruel), 1892-1973"
+      ]
+    },
+    {
+      "key": "/works/OL2994841W",
+      "title": "Tolkien",
+      "first_publish_year": 1991,
+      "number_of_pages_median": 279,
+      "isbn": [
+        "002533431X",
+        "0855339241",
+        "9780025334311",
+        "1857323467",
+        "9780855339241",
+        "9780684839790",
+        "0684839792",
+        "9781857323467"
+      ],
+      "ia": ["tolkienillustrat0000dayd"],
+      "cover_edition_key": "OL8300802M",
+      "cover_i": 650756,
+      "publisher": [
+        "Mitchell Beazley",
+        "Fireside",
+        "Maxwell Macmillan International"
+      ],
+      "author_key": ["OL272955A"],
+      "author_name": ["David Day"],
+      "id_goodreads": ["804489", "19293", "1139755", "804488"],
+      "id_librarything": ["91239"],
+      "subject_facet": [
+        "Dictionaries",
+        "Engels",
+        "English Fantasy fiction",
+        "Middle Earth (Imaginary place)",
+        "Romans"
+      ]
+    },
+    {
+      "key": "/works/OL14929068W",
+      "title": "Tolkiens Erbe",
+      "first_publish_year": 2001,
+      "oclc": ["76340594"],
+      "isbn": ["9783453196223", "3453196228"],
+      "cover_edition_key": "OL9041320M",
+      "cover_i": 1009512,
+      "publisher": ["Heyne"],
+      "author_key": ["OL25712A"],
+      "author_name": ["Terry Pratchett"],
+      "id_goodreads": ["61658"],
+      "id_librarything": ["1832002"]
+    }
+  ],
+  "num_found": 2018,
+  "q": "tolkien",
+  "offset": 10
+}
